@@ -124,7 +124,7 @@
     "globby": "^11.0.0",
     "globjoin": "^0.1.4",
     "html-tags": "^3.1.0",
-    "ignore": "^5.1.4",
+    "ignore": "^5.1.6",
     "import-lazy": "^4.0.0",
     "imurmurhash": "^0.1.4",
     "known-css-properties": "^0.19.0",
